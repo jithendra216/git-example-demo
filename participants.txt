@@ -1,4 +1,10 @@
 Pradeep
+jithendra
 Sai Praneeth.
+<<<<<<< HEAD
 Ejurothu Pavan Sai Santhosh
 Soumya
+=======
+Sai Praneeth.
+Ejurothu Pavan Sai Santhosh
+>>>>>>> f8d3f585c6b71e6cb8e6d5bfc41e242b70c31b97
