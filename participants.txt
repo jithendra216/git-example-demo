@@ -1,8 +1,9 @@
 Pradeep
-<<<<<<< HEAD
 Surya Vamsi Krishna
 Sai Praneeth.
-=======
 Sai Praneeth.
 Ejurothu Pavan Sai Santhosh
->>>>>>> 3a5305dc6bfdd460f4bef7ba120a38dbb9c6b563
+jithendra
+Sai Praneeth.
+Sai Praneeth.
+Ejurothu Pavan Sai Santhosh
