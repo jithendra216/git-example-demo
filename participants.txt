@@ -5,6 +5,10 @@ Rajeev
 nandini
 Sai Praneeth.
 Himanshu
+<<<<<<< HEAD
+=======
+Saurabh
+>>>>>>> 1753910865f2b8d5d8d549c49c8196a74159af3d
 Surya Vamsi Krishna
 Sai Praneeth.
 Sai Praneeth.
@@ -13,9 +17,15 @@ jithendra
 Sai Praneeth.
 Mohit Saraswat
 Ejurothu Pavan Sai Santhosh
+<<<<<<< HEAD
 Soumya
 Sai Praneeth.
 Ejurothu Pavan Sai Santhosh
 Soumya 
 Soumya 
 
+=======
+Sai Praneeth.
+Ejurothu Pavan Sai Santhosh
+Soumya 
+>>>>>>> 1753910865f2b8d5d8d549c49c8196a74159af3d
