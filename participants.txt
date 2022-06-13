@@ -1,9 +1,14 @@
 Pradeep
+Kingshuk Mandal
+Sai Praneeth.
 Rajeev
 nandini
 Sai Praneeth.
 Himanshu
+<<<<<<< HEAD
+=======
 Saurabh
+>>>>>>> 1753910865f2b8d5d8d549c49c8196a74159af3d
 Surya Vamsi Krishna
 Sai Praneeth.
 Sai Praneeth.
@@ -12,7 +17,19 @@ jithendra
 Sai Praneeth.
 Mohit Saraswat
 Ejurothu Pavan Sai Santhosh
+<<<<<<< HEAD
+Soumya
 Sai Praneeth.
 Ejurothu Pavan Sai Santhosh
 Soumya 
+<<<<<<< HEAD
 pradeep.kumar@gmail.com
+=======
+Soumya 
+
+=======
+Sai Praneeth.
+Ejurothu Pavan Sai Santhosh
+Soumya 
+>>>>>>> 1753910865f2b8d5d8d549c49c8196a74159af3d
+>>>>>>> b0d2a372c7c3decdcfac480151d631b1cbbf1899
