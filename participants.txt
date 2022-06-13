@@ -1,9 +1,16 @@
 Pradeep
+<<<<<<< HEAD
 
 Kingshuk Mandal
 
 Sai Praneeth.
 
+=======
+Surya Vamsi Krishna
+Sai Praneeth.
+Sai Praneeth.
+Ejurothu Pavan Sai Santhosh
+>>>>>>> 4829b4f20d010843b68f100b5e02b530ff172845
 jithendra
 Sai Praneeth.
 Sai Praneeth.
