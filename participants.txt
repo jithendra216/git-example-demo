@@ -30,6 +30,12 @@ Soumya
 Sai Praneeth.
 Ejurothu Pavan Sai Santhosh
 Soumya 
+pradeep.kumar@gmail.com
+suryavamsi@gmail.com
+saipraneeth.pataballa
 kingshukmandal@gmail.com
 Soumya 
+<<<<<<< HEAD
 >>>>>>> 57303faaa5adac7d3030938398a5b4528d4e72b9
+=======
+>>>>>>> 5dc61e48d7990212483261ffe686e18f23628763
